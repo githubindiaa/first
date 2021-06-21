@@ -1,0 +1,3408 @@
+[
+  {
+    "discoveredAt": 1591709019528,
+    "nominatedAt": 1598832024247,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 28,
+    "faults": 0,
+    "invalidityReasons": "",
+    "unclaimedEras": [],
+    "inclusion": 0,
+    "name": "cc001-sv-validator-0",
+    "stash": "GfbeqMNnxHNtictRpqo5Wfdjc8XSoWnFuBpgYB5oCJQbB6b",
+    "kusamaStash": "",
+    "commission": 10,
+    "identity": {
+      "_id": "60c8e79e144fab0012f1e793",
+      "name": "GfbeqMNnxHNtictRpqo5Wfdjc8XSoWnFuBpgYB5oCJQbB6b",
+      "verified": false,
+      "sub": null
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e31b286fb60012515fde",
+        "valid": true,
+        "updated": 1623778075904,
+        "details": ""
+      },
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e345286fb60012519239",
+        "valid": true,
+        "updated": 1623778117207,
+        "details": ""
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e6c5144fab0012f178e6",
+        "valid": false,
+        "updated": 1623779013466,
+        "details": "cc001-sv-validator-0 offline. Offline since 0."
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e6c6144fab0012f178fa",
+        "valid": true,
+        "updated": 1623779014004,
+        "details": ""
+      },
+      {
+        "type": "IDENTITY",
+        "_id": "60c8e6c6144fab0012f17905",
+        "valid": false,
+        "updated": 1623779014068,
+        "details": "cc001-sv-validator-0 does not have an identity set."
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e6c6144fab0012f17918",
+        "valid": true,
+        "updated": 1623779014090,
+        "details": ""
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e6c6144fab0012f17923",
+        "valid": true,
+        "updated": 1623779014137,
+        "details": ""
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e6c6144fab0012f1792d",
+        "valid": true,
+        "updated": 1623779014172,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60ae23da48b1bf00126c8c57",
+      "address": "GfbeqMNnxHNtictRpqo5Wfdjc8XSoWnFuBpgYB5oCJQbB6b",
+      "updated": 1622824583654,
+      "total": 123.95135189007321,
+      "aggregate": 118.35985849184435,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 4.500047374209968,
+      "nominated": 35,
+      "rank": 0.732484076433121,
+      "unclaimed": 15,
+      "bonded": 11.127327041201255,
+      "faults": 5,
+      "offline": 2,
+      "randomness": 1.047241467415358,
+      "__v": 0
+    },
+    "total": 123.95135189007321
+  },
+  {
+    "discoveredAt": 1594026918348,
+    "nominatedAt": 1600128022421,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 23,
+    "faults": 0,
+    "invalidityReasons": "",
+    "unclaimedEras": [],
+    "inclusion": 0,
+    "name": "Stake Capital | StakeDAO",
+    "stash": "CsHw8cfzbnKdkCuUq24yuaPyJ1E5a55sNPqejJZ4h7CRtEs",
+    "kusamaStash": "",
+    "commission": 0,
+    "identity": {
+      "_id": "60c8e7a9144fab0012f1ed48",
+      "name": "Stake Capital | Stake DAO"
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e31b286fb6001251603f",
+        "valid": false,
+        "updated": 1623778075932,
+        "details": "Stake Capital | StakeDAO does not have a validate intention."
+      },
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e34a286fb600125195b3",
+        "valid": true,
+        "updated": 1623778122388,
+        "details": ""
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e6d3144fab0012f17f1d",
+        "valid": true,
+        "updated": 1623779027013,
+        "details": ""
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e6d3144fab0012f17f34",
+        "valid": true,
+        "updated": 1623779027583,
+        "details": ""
+      },
+      {
+        "type": "IDENTITY",
+        "_id": "60c8e6d3144fab0012f17f48",
+        "valid": false,
+        "updated": 1623779027617,
+        "details": "Stake Capital | StakeDAO has an identity but is not verified by registrar."
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e6d3144fab0012f17f53",
+        "valid": true,
+        "updated": 1623779027639,
+        "details": ""
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e6d3144fab0012f17f5d",
+        "valid": true,
+        "updated": 1623779027708,
+        "details": ""
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e6d3144fab0012f17f67",
+        "valid": true,
+        "updated": 1623779027746,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60ae23da48b1bf00126c8c5a",
+      "address": "CsHw8cfzbnKdkCuUq24yuaPyJ1E5a55sNPqejJZ4h7CRtEs",
+      "updated": 1622824583711,
+      "total": 120.26458418048036,
+      "aggregate": 119.69971166540434,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 4.126463257761039,
+      "nominated": 35,
+      "rank": 0.5732484076433121,
+      "unclaimed": 15,
+      "bonded": 13,
+      "faults": 5,
+      "offline": 2,
+      "randomness": 1.0047190799979118,
+      "__v": 0
+    },
+    "total": 120.26458418048036
+  },
+  {
+    "discoveredAt": 1607602877201,
+    "nominatedAt": 1612529027490,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 6,
+    "faults": 0,
+    "invalidityReasons": "",
+    "unclaimedEras": [],
+    "inclusion": 0,
+    "name": "mobb",
+    "stash": "GgXn3e7LicPtGKchRekFiePDetq8mah4A36d51vqxNW1dn6",
+    "kusamaStash": "",
+    "commission": 0,
+    "identity": {
+      "_id": "60c8e817144fab0012f222c6",
+      "name": "Mobb",
+      "verified": true
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "IDENTITY",
+        "_id": "60c8dbed286fb600124ea3b7",
+        "valid": true,
+        "updated": 1623776237809,
+        "details": ""
+      },
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e31c286fb600125162c7",
+        "valid": false,
+        "updated": 1623778076139,
+        "details": "mobb does not have a validate intention."
+      },
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e370286fb6001251acf4",
+        "valid": true,
+        "updated": 1623778160731,
+        "details": ""
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e766144fab0012f1c8a3",
+        "valid": true,
+        "updated": 1623779174651,
+        "details": ""
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e767144fab0012f1c8d2",
+        "valid": true,
+        "updated": 1623779175785,
+        "details": ""
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e767144fab0012f1c903",
+        "valid": true,
+        "updated": 1623779175955,
+        "details": ""
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e768144fab0012f1c916",
+        "valid": true,
+        "updated": 1623779176065,
+        "details": ""
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e768144fab0012f1c924",
+        "valid": true,
+        "updated": 1623779176143,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60ae23db48b1bf00126c8c65",
+      "address": "GgXn3e7LicPtGKchRekFiePDetq8mah4A36d51vqxNW1dn6",
+      "updated": 1622824583968,
+      "total": 120.19401410126733,
+      "aggregate": 116.97022411731096,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 1.9383769835529958,
+      "nominated": 35,
+      "rank": 0.03184713375796178,
+      "unclaimed": 15,
+      "bonded": 13,
+      "faults": 5,
+      "offline": 2,
+      "randomness": 1.0275607746183608,
+      "__v": 0
+    },
+    "total": 120.19401410126733
+  },
+  {
+    "discoveredAt": 1607975044424,
+    "nominatedAt": 1612595700210,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 7,
+    "faults": 0,
+    "invalidityReasons": "",
+    "unclaimedEras": [],
+    "inclusion": 0,
+    "name": "mobb-2",
+    "stash": "F3NDTWWNPwNCv2A6NioWLr6x2jbSfCYWHit32tBgxc32D2X",
+    "kusamaStash": "",
+    "commission": 0,
+    "identity": {
+      "_id": "60c8e82a144fab0012f22b9d",
+      "name": "Mobb",
+      "verified": true
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e37a286fb6001251b391",
+        "valid": false,
+        "updated": 1623778170976,
+        "details": "mobb-2 does not have a validate intention."
+      },
+      {
+        "type": "IDENTITY",
+        "_id": "60c8e37b286fb6001251b3ae",
+        "valid": true,
+        "updated": 1623778171096,
+        "details": ""
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e793144fab0012f1e2ae",
+        "valid": true,
+        "updated": 1623779219066,
+        "details": ""
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e793144fab0012f1e2cd",
+        "valid": true,
+        "updated": 1623779219737,
+        "details": ""
+      },
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e793144fab0012f1e2e4",
+        "valid": true,
+        "updated": 1623779219985,
+        "details": ""
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e794144fab0012f1e2f1",
+        "valid": true,
+        "updated": 1623779220087,
+        "details": ""
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e795144fab0012f1e357",
+        "valid": true,
+        "updated": 1623779221216,
+        "details": ""
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e797144fab0012f1e45f",
+        "valid": true,
+        "updated": 1623779223643,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60ae23db48b1bf00126c8c67",
+      "address": "F3NDTWWNPwNCv2A6NioWLr6x2jbSfCYWHit32tBgxc32D2X",
+      "updated": 1622824584063,
+      "total": 119.6847485919447,
+      "aggregate": 116.94208771685422,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 1.878393449338286,
+      "nominated": 35,
+      "rank": 0.06369426751592357,
+      "unclaimed": 15,
+      "bonded": 13,
+      "faults": 5,
+      "offline": 2,
+      "randomness": 1.0234531547079195,
+      "__v": 0
+    },
+    "total": 119.6847485919447
+  },
+  {
+    "discoveredAt": 0,
+    "nominatedAt": 0,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 0,
+    "faults": 2,
+    "invalidityReasons": "",
+    "unclaimedEras": [],
+    "inclusion": 0,
+    "name": "SATANAS",
+    "stash": "GoKrgg1FP1YW8B976sr3jf4QYdHUiqgKeVSFs6Am1FBK2zE",
+    "kusamaStash": "",
+    "commission": 5,
+    "identity": {
+      "_id": "60c8e449286fb60012524f31",
+      "name": "GoKrgg1FP1YW8B976sr3jf4QYdHUiqgKeVSFs6Am1FBK2zE",
+      "verified": false,
+      "sub": null
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e253286fb60012513e59",
+        "valid": true,
+        "updated": 1623777875003,
+        "details": ""
+      },
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e31c286fb60012516be6",
+        "valid": true,
+        "updated": 1623778076986,
+        "details": ""
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e420286fb60012523560",
+        "valid": false,
+        "updated": 1623778336128,
+        "details": "SATANAS offline. Offline since 0."
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e420286fb60012523573",
+        "valid": true,
+        "updated": 1623778336447,
+        "details": ""
+      },
+      {
+        "type": "IDENTITY",
+        "_id": "60c8e420286fb60012523592",
+        "valid": false,
+        "updated": 1623778336592,
+        "details": "SATANAS does not have an identity set."
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e420286fb6001252359d",
+        "valid": true,
+        "updated": 1623778336622,
+        "details": ""
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e420286fb600125235a8",
+        "valid": true,
+        "updated": 1623778336689,
+        "details": ""
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e420286fb600125235c1",
+        "valid": true,
+        "updated": 1623778336761,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60ae19958d26630013bc564d",
+      "address": "GoKrgg1FP1YW8B976sr3jf4QYdHUiqgKeVSFs6Am1FBK2zE",
+      "updated": 1622751623593,
+      "total": 116.01455998043924,
+      "aggregate": 111.18908107938012,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 5,
+      "nominated": 35,
+      "rank": 0,
+      "unclaimed": 15,
+      "bonded": 9.189081079380118,
+      "faults": 0,
+      "offline": 2,
+      "randomness": 1.0433988558428153,
+      "__v": 0
+    },
+    "total": 116.01455998043924
+  },
+  {
+    "discoveredAt": 1589317151715,
+    "nominatedAt": 1605657649551,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 66,
+    "faults": 0,
+    "invalidityReasons": "",
+    "unclaimedEras": null,
+    "inclusion": 0,
+    "name": "Cube3-KSM-Val1-ValidatorA",
+    "stash": "J7Z1bxUB7qhxjqT5js6yAkCZoU1VYNxPvTdg9mtyNNbU845",
+    "kusamaStash": "",
+    "commission": 0,
+    "identity": {
+      "_id": "60c8e786144fab0012f1db9f",
+      "name": "J7Z1bxUB7qhxjqT5js6yAkCZoU1VYNxPvTdg9mtyNNbU845",
+      "verified": false,
+      "sub": null
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "IDENTITY",
+        "_id": "60c8dfee286fb600124ffbf0",
+        "valid": false,
+        "updated": 1623777262834,
+        "details": "Cube3-KSM-Val1-ValidatorA does not have an identity set."
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e337286fb600125180e5",
+        "valid": true,
+        "updated": 1623778103454,
+        "details": ""
+      },
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e337286fb600125180f8",
+        "valid": true,
+        "updated": 1623778103512,
+        "details": ""
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e337286fb60012518103",
+        "valid": true,
+        "updated": 1623778103539,
+        "details": ""
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e6aa144fab0012f16aec",
+        "valid": false,
+        "updated": 1623778986071,
+        "details": "Cube3-KSM-Val1-ValidatorA offline. Offline since 0."
+      },
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e6ac144fab0012f16c28",
+        "valid": false,
+        "updated": 1623778988442,
+        "details": "Cube3-KSM-Val1-ValidatorA does not have a validate intention."
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e6ac144fab0012f16c7c",
+        "valid": false,
+        "updated": 1623778988739,
+        "details": "Cube3-KSM-Val1-ValidatorA Not bonded to any account."
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e6ae144fab0012f16e34",
+        "valid": true,
+        "updated": 1623778990720,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60ae23da48b1bf00126c8c4e",
+      "address": "J7Z1bxUB7qhxjqT5js6yAkCZoU1VYNxPvTdg9mtyNNbU845",
+      "updated": 1622824583581,
+      "total": 113.88750477382253,
+      "aggregate": 108.82822849939726,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 4.885553340161596,
+      "nominated": 35,
+      "rank": 1.942675159235669,
+      "unclaimed": 15,
+      "bonded": 0,
+      "faults": 5,
+      "offline": 2,
+      "randomness": 1.0464886394291835,
+      "__v": 0
+    },
+    "total": 113.88750477382253
+  },
+  {
+    "discoveredAt": 0,
+    "nominatedAt": 0,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 0,
+    "faults": 0,
+    "invalidityReasons": "",
+    "unclaimedEras": [],
+    "inclusion": 0,
+    "name": "Rockets to the Moon",
+    "stash": "Hjp6SmUqYWCjUdgi13SJAAx6efLouYasgndj19NdhH9iGJt",
+    "kusamaStash": "",
+    "commission": 0,
+    "identity": {
+      "_id": "60c8e8fc144fab0012f2990d",
+      "name": "Hjp6SmUqYWCjUdgi13SJAAx6efLouYasgndj19NdhH9iGJt",
+      "verified": false,
+      "sub": null
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e22b286fb6001251268d",
+        "valid": true,
+        "updated": 1623777835691,
+        "details": ""
+      },
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e3f2286fb600125213e1",
+        "valid": false,
+        "updated": 1623778290680,
+        "details": "Rockets to the Moon does not have a validate intention."
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e8c8144fab0012f27e40",
+        "valid": false,
+        "updated": 1623779528918,
+        "details": "Rockets to the Moon offline. Offline since 0."
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e8c9144fab0012f27e58",
+        "valid": true,
+        "updated": 1623779529570,
+        "details": ""
+      },
+      {
+        "type": "IDENTITY",
+        "_id": "60c8e8c9144fab0012f27e6d",
+        "valid": false,
+        "updated": 1623779529629,
+        "details": "Rockets to the Moon does not have an identity set."
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e8c9144fab0012f27e78",
+        "valid": true,
+        "updated": 1623779529651,
+        "details": ""
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e8c9144fab0012f27e83",
+        "valid": false,
+        "updated": 1623779529666,
+        "details": "Rockets to the Moon Bonded to itself, please follow recommendations and bond to a different controller. Stash: Hjp6SmUqYWCjUdgi13SJAAx6efLouYasgndj19NdhH9iGJt | Controller Hjp6SmUqYWCjUdgi13SJAAx6efLouYasgndj19NdhH9iGJt"
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e8c9144fab0012f27e8d",
+        "valid": true,
+        "updated": 1623779529696,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60ae4b262211ba0012f5e741",
+      "address": "Hjp6SmUqYWCjUdgi13SJAAx6efLouYasgndj19NdhH9iGJt",
+      "updated": 1622751622992,
+      "total": 112.21217460287552,
+      "aggregate": 107,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 5,
+      "nominated": 35,
+      "rank": 0,
+      "unclaimed": 15,
+      "bonded": 0,
+      "faults": 5,
+      "offline": 2,
+      "randomness": 1.0487119121764068,
+      "__v": 0
+    },
+    "total": 112.21217460287552
+  },
+  {
+    "discoveredAt": 0,
+    "nominatedAt": 0,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 56,
+    "faults": 0,
+    "invalidityReasons": "",
+    "unclaimedEras": [],
+    "inclusion": 0,
+    "name": "Blockdaemon_ðŸ˜ˆ_Validator_1",
+    "stash": "Etij9aH36W1NjjWbR7wB5j41CmfpqAx8D4V4HCJhUydSH9Y",
+    "kusamaStash": "",
+    "commission": 5,
+    "identity": {
+      "_id": "60c8e794144fab0012f1e2f3",
+      "name": "blockdaemonðŸ˜ˆ",
+      "sub": "ðŸ˜ˆ1"
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e31b286fb60012515f99",
+        "valid": true,
+        "updated": 1623778075877,
+        "details": ""
+      },
+      {
+        "type": "IDENTITY",
+        "_id": "60c8e341286fb60012518fab",
+        "valid": false,
+        "updated": 1623778113213,
+        "details": "Blockdaemon_ðŸ˜ˆ_Validator_1 has an identity but is not verified by registrar."
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e6ba144fab0012f173b2",
+        "valid": false,
+        "updated": 1623779002302,
+        "details": "Blockdaemon_ðŸ˜ˆ_Validator_1 offline. Offline since 0."
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e6ba144fab0012f173c8",
+        "valid": true,
+        "updated": 1623779002914,
+        "details": ""
+      },
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e6bb144fab0012f173de",
+        "valid": true,
+        "updated": 1623779003024,
+        "details": ""
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e6bb144fab0012f173e9",
+        "valid": true,
+        "updated": 1623779003061,
+        "details": ""
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e6bb144fab0012f173f3",
+        "valid": false,
+        "updated": 1623779003083,
+        "details": "Blockdaemon_ðŸ˜ˆ_Validator_1 Bonded to itself, please follow recommendations and bond to a different controller. Stash: Etij9aH36W1NjjWbR7wB5j41CmfpqAx8D4V4HCJhUydSH9Y | Controller Etij9aH36W1NjjWbR7wB5j41CmfpqAx8D4V4HCJhUydSH9Y"
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e6bb144fab0012f173fd",
+        "valid": true,
+        "updated": 1623779003115,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60ae23da48b1bf00126c8c54",
+      "address": "Etij9aH36W1NjjWbR7wB5j41CmfpqAx8D4V4HCJhUydSH9Y",
+      "updated": 1622824583608,
+      "total": 110.95421456061672,
+      "aggregate": 108.62420382165605,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 5,
+      "nominated": 35,
+      "rank": 1.6242038216560508,
+      "unclaimed": 15,
+      "bonded": 0,
+      "faults": 5,
+      "offline": 2,
+      "randomness": 1.0214501985467823,
+      "__v": 0
+    },
+    "total": 110.95421456061672
+  },
+  {
+    "discoveredAt": 1589623042836,
+    "nominatedAt": 1600128022286,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 31,
+    "faults": 0,
+    "invalidityReasons": "",
+    "unclaimedEras": null,
+    "inclusion": 0,
+    "name": "ðŸš€ðŸ‚±ðŸ‚¡ Fabrice Validator Vinsberg",
+    "stash": "GJYTvSewzH8UntrCfv99KByGggRijqXv8877oh1jsrdCEwg",
+    "kusamaStash": "",
+    "commission": 0,
+    "identity": {
+      "_id": "60c8e78e144fab0012f1e010",
+      "name": "GJYTvSewzH8UntrCfv99KByGggRijqXv8877oh1jsrdCEwg",
+      "verified": false,
+      "sub": null
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "IDENTITY",
+        "_id": "60c8de4f286fb600124f5a45",
+        "valid": false,
+        "updated": 1623776847460,
+        "details": "ðŸš€ðŸ‚±ðŸ‚¡ Fabrice Validator Vinsberg does not have an identity set."
+      },
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e31b286fb60012515f6b",
+        "valid": false,
+        "updated": 1623778075869,
+        "details": "ðŸš€ðŸ‚±ðŸ‚¡ Fabrice Validator Vinsberg does not have a validate intention."
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e6b3144fab0012f170b3",
+        "valid": false,
+        "updated": 1623778995726,
+        "details": "ðŸš€ðŸ‚±ðŸ‚¡ Fabrice Validator Vinsberg offline. Offline since 0."
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e6b4144fab0012f170c6",
+        "valid": true,
+        "updated": 1623778996259,
+        "details": ""
+      },
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e6b4144fab0012f170da",
+        "valid": true,
+        "updated": 1623778996322,
+        "details": ""
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e6b4144fab0012f170e5",
+        "valid": true,
+        "updated": 1623778996342,
+        "details": ""
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e6b4144fab0012f170ef",
+        "valid": false,
+        "updated": 1623778996372,
+        "details": "ðŸš€ðŸ‚±ðŸ‚¡ Fabrice Validator Vinsberg Not bonded to any account."
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e6b4144fab0012f170f9",
+        "valid": true,
+        "updated": 1623778996405,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60ae23da48b1bf00126c8c50",
+      "address": "GJYTvSewzH8UntrCfv99KByGggRijqXv8877oh1jsrdCEwg",
+      "updated": 1622824583595,
+      "total": 110.39884536835648,
+      "aggregate": 107.664277242156,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 4.8362517644490035,
+      "nominated": 35,
+      "rank": 0.8280254777070063,
+      "unclaimed": 15,
+      "bonded": 0,
+      "faults": 5,
+      "offline": 2,
+      "randomness": 1.0253990292439334,
+      "__v": 0
+    },
+    "total": 110.39884536835648
+  },
+  {
+    "discoveredAt": 1595863882243,
+    "nominatedAt": 1605657649551,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 16,
+    "faults": 0,
+    "invalidityReasons": "",
+    "unclaimedEras": null,
+    "inclusion": 0,
+    "name": "Angel",
+    "stash": "J7TBFB4UyLAsyaLa2hXXUc1rJbsTQwCfw15reKEj9NnYsae",
+    "kusamaStash": "",
+    "commission": 0,
+    "identity": {
+      "_id": "60c8e7ae144fab0012f1efd5",
+      "name": "J7TBFB4UyLAsyaLa2hXXUc1rJbsTQwCfw15reKEj9NnYsae",
+      "verified": false,
+      "sub": null
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "IDENTITY",
+        "_id": "60c8e1a5286fb6001250d1a5",
+        "valid": false,
+        "updated": 1623777701517,
+        "details": "Angel does not have an identity set."
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e6d8144fab0012f181d9",
+        "valid": false,
+        "updated": 1623779032870,
+        "details": "Angel offline. Offline since 0."
+      },
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e6d9144fab0012f181e4",
+        "valid": false,
+        "updated": 1623779033468,
+        "details": "Angel does not have a validate intention."
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e6d9144fab0012f181ee",
+        "valid": true,
+        "updated": 1623779033486,
+        "details": ""
+      },
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e6d9144fab0012f18201",
+        "valid": true,
+        "updated": 1623779033537,
+        "details": ""
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e6d9144fab0012f1820c",
+        "valid": true,
+        "updated": 1623779033554,
+        "details": ""
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e6d9144fab0012f18216",
+        "valid": false,
+        "updated": 1623779033571,
+        "details": "Angel Not bonded to any account."
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e6d9144fab0012f18222",
+        "valid": true,
+        "updated": 1623779033745,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60ae23da48b1bf00126c8c5c",
+      "address": "J7TBFB4UyLAsyaLa2hXXUc1rJbsTQwCfw15reKEj9NnYsae",
+      "updated": 1622824583723,
+      "total": 110.37401746201375,
+      "aggregate": 106.18071162986013,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 3.830393158522558,
+      "nominated": 35,
+      "rank": 0.3503184713375796,
+      "unclaimed": 15,
+      "bonded": 0,
+      "faults": 5,
+      "offline": 2,
+      "randomness": 1.0394921616910164,
+      "__v": 0
+    },
+    "total": 110.37401746201375
+  },
+  {
+    "discoveredAt": 1591877144239,
+    "nominatedAt": 0,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 0,
+    "faults": 0,
+    "invalidityReasons": "",
+    "unclaimedEras": [],
+    "inclusion": 0,
+    "name": "sf-ksm-val-00",
+    "stash": "GXaUd6gyCaEoBVzXnkLVGneCF3idnLNtNZs5RHTugb9dCpY",
+    "kusamaStash": "",
+    "commission": 0,
+    "identity": {
+      "_id": "60c8e791144fab0012f1e207",
+      "name": "ðŸ  stakefish",
+      "verified": true
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e31b286fb60012515f7d",
+        "valid": false,
+        "updated": 1623778075872,
+        "details": "sf-ksm-val-00 does not have a validate intention."
+      },
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e33b286fb6001251838f",
+        "valid": true,
+        "updated": 1623778107285,
+        "details": ""
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e6b5144fab0012f17158",
+        "valid": false,
+        "updated": 1623778997067,
+        "details": "sf-ksm-val-00 offline. Offline since 0."
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e6b5144fab0012f1716d",
+        "valid": true,
+        "updated": 1623778997626,
+        "details": ""
+      },
+      {
+        "type": "IDENTITY",
+        "_id": "60c8e6b5144fab0012f17181",
+        "valid": true,
+        "updated": 1623778997657,
+        "details": ""
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e6b5144fab0012f1718c",
+        "valid": true,
+        "updated": 1623778997686,
+        "details": ""
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e6b5144fab0012f17196",
+        "valid": false,
+        "updated": 1623778997712,
+        "details": "sf-ksm-val-00 Bonded to itself, please follow recommendations and bond to a different controller. Stash: GXaUd6gyCaEoBVzXnkLVGneCF3idnLNtNZs5RHTugb9dCpY | Controller GXaUd6gyCaEoBVzXnkLVGneCF3idnLNtNZs5RHTugb9dCpY"
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e6b5144fab0012f171a0",
+        "valid": true,
+        "updated": 1623778997742,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60ae23da48b1bf00126c8c52",
+      "address": "GXaUd6gyCaEoBVzXnkLVGneCF3idnLNtNZs5RHTugb9dCpY",
+      "updated": 1622824583600,
+      "total": 110.23155800131471,
+      "aggregate": 106.47295010789695,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 4.472950107896951,
+      "nominated": 35,
+      "rank": 0,
+      "unclaimed": 15,
+      "bonded": 0,
+      "faults": 5,
+      "offline": 2,
+      "randomness": 1.0353010589976974,
+      "__v": 0
+    },
+    "total": 110.23155800131471
+  },
+  {
+    "discoveredAt": 1588693815055,
+    "nominatedAt": 1594771204171,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 30,
+    "faults": 0,
+    "invalidityReasons": "",
+    "unclaimedEras": null,
+    "inclusion": 0,
+    "name": "TOKENIKA",
+    "stash": "EqbW9Q7nagHPjkYCZMK5qZ8KUcBJg9mp7jUDfmQz4RgP2Gx",
+    "kusamaStash": "",
+    "commission": 0,
+    "identity": {
+      "_id": "60c8e77b144fab0012f1d586",
+      "name": "EqbW9Q7nagHPjkYCZMK5qZ8KUcBJg9mp7jUDfmQz4RgP2Gx",
+      "verified": false,
+      "sub": null
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "IDENTITY",
+        "_id": "60c8e190286fb6001250c521",
+        "valid": false,
+        "updated": 1623777680225,
+        "details": "TOKENIKA does not have an identity set."
+      },
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e334286fb60012517ebc",
+        "valid": false,
+        "updated": 1623778100385,
+        "details": "TOKENIKA does not have a validate intention."
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e6a1144fab0012f16774",
+        "valid": false,
+        "updated": 1623778977963,
+        "details": "TOKENIKA offline. Offline since 0."
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e6a2144fab0012f16787",
+        "valid": true,
+        "updated": 1623778978560,
+        "details": ""
+      },
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e6a2144fab0012f1679b",
+        "valid": true,
+        "updated": 1623778978615,
+        "details": ""
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e6a2144fab0012f167a6",
+        "valid": true,
+        "updated": 1623778978631,
+        "details": ""
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e6a2144fab0012f167b0",
+        "valid": false,
+        "updated": 1623778978657,
+        "details": "TOKENIKA Not bonded to any account."
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e6a2144fab0012f167ba",
+        "valid": true,
+        "updated": 1623778978690,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60ae23da48b1bf00126c8c4c",
+      "address": "EqbW9Q7nagHPjkYCZMK5qZ8KUcBJg9mp7jUDfmQz4RgP2Gx",
+      "updated": 1622824583559,
+      "total": 109.96589853170023,
+      "aggregate": 107.78219710277645,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 4.986018758827423,
+      "nominated": 35,
+      "rank": 0.7961783439490445,
+      "unclaimed": 15,
+      "bonded": 0,
+      "faults": 5,
+      "offline": 2,
+      "randomness": 1.0202603165237158,
+      "__v": 0
+    },
+    "total": 109.96589853170023
+  },
+  {
+    "discoveredAt": 1597998641267,
+    "nominatedAt": 0,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 29,
+    "faults": 0,
+    "invalidityReasons": "",
+    "unclaimedEras": [],
+    "inclusion": 0,
+    "name": "HuobiPool",
+    "stash": "DfVSzaqigoaAzmiHpshztww8nJoWNaxX1rfbFniQk9JzfmB",
+    "kusamaStash": "",
+    "commission": 0,
+    "identity": {
+      "_id": "60c8e7b5144fab0012f1f32d",
+      "name": "DfVSzaqigoaAzmiHpshztww8nJoWNaxX1rfbFniQk9JzfmB",
+      "verified": false,
+      "sub": null
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "IDENTITY",
+        "_id": "60c8e004286fb600125008cd",
+        "valid": false,
+        "updated": 1623777284256,
+        "details": "HuobiPool does not have an identity set."
+      },
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e350286fb60012519972",
+        "valid": false,
+        "updated": 1623778128094,
+        "details": "HuobiPool does not have a validate intention."
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e6e3144fab0012f1870a",
+        "valid": true,
+        "updated": 1623779043991,
+        "details": ""
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e6e4144fab0012f1871f",
+        "valid": true,
+        "updated": 1623779044583,
+        "details": ""
+      },
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e6e4144fab0012f18732",
+        "valid": true,
+        "updated": 1623779044631,
+        "details": ""
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e6e4144fab0012f1873d",
+        "valid": true,
+        "updated": 1623779044657,
+        "details": ""
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e6e4144fab0012f18747",
+        "valid": false,
+        "updated": 1623779044711,
+        "details": "HuobiPool has less than the minimum amount bonded: 0 is bonded."
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e6e4144fab0012f18751",
+        "valid": true,
+        "updated": 1623779044739,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60ae23da48b1bf00126c8c5d",
+      "address": "DfVSzaqigoaAzmiHpshztww8nJoWNaxX1rfbFniQk9JzfmB",
+      "updated": 1622824583785,
+      "total": 109.73022058326643,
+      "aggregate": 106.25065755400583,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 3.4863263438147363,
+      "nominated": 35,
+      "rank": 0.7643312101910827,
+      "unclaimed": 15,
+      "bonded": 0,
+      "faults": 5,
+      "offline": 2,
+      "randomness": 1.03274862583784,
+      "__v": 0
+    },
+    "total": 109.73022058326643
+  },
+  {
+    "discoveredAt": 0,
+    "nominatedAt": 0,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 0,
+    "faults": 0,
+    "invalidityReasons": "",
+    "unclaimedEras": [],
+    "inclusion": 0,
+    "name": "Wetez",
+    "stash": "GcgPeEtLketwNDVVdV2jEnaTU5RMdGQdpYqVshssBWy1txZ",
+    "kusamaStash": "",
+    "commission": 1,
+    "identity": {
+      "_id": "60c8e8a7144fab0012f26dcf",
+      "name": "PolkaPool"
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e3be286fb6001251ea5a",
+        "valid": true,
+        "updated": 1623778238254,
+        "details": ""
+      },
+      {
+        "type": "IDENTITY",
+        "_id": "60c8e3be286fb6001251ea6f",
+        "valid": false,
+        "updated": 1623778238285,
+        "details": "Wetez has an identity but is not verified by registrar."
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e838144fab0012f232b7",
+        "valid": false,
+        "updated": 1623779384902,
+        "details": "Wetez offline. Offline since 0."
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e839144fab0012f232d1",
+        "valid": true,
+        "updated": 1623779385544,
+        "details": ""
+      },
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e839144fab0012f232e6",
+        "valid": true,
+        "updated": 1623779385581,
+        "details": ""
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e839144fab0012f232f1",
+        "valid": true,
+        "updated": 1623779385601,
+        "details": ""
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e839144fab0012f232fd",
+        "valid": false,
+        "updated": 1623779385646,
+        "details": "Wetez Bonded to itself, please follow recommendations and bond to a different controller. Stash: GcgPeEtLketwNDVVdV2jEnaTU5RMdGQdpYqVshssBWy1txZ | Controller GcgPeEtLketwNDVVdV2jEnaTU5RMdGQdpYqVshssBWy1txZ"
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e839144fab0012f23308",
+        "valid": true,
+        "updated": 1623779385714,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60ae23db48b1bf00126c8c70",
+      "address": "GcgPeEtLketwNDVVdV2jEnaTU5RMdGQdpYqVshssBWy1txZ",
+      "updated": 1622751622436,
+      "total": 109.35316506837532,
+      "aggregate": 107,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 5,
+      "nominated": 35,
+      "rank": 0,
+      "unclaimed": 15,
+      "bonded": 0,
+      "faults": 5,
+      "offline": 2,
+      "randomness": 1.021992196900704,
+      "__v": 0
+    },
+    "total": 109.35316506837532
+  },
+  {
+    "discoveredAt": 1589181646460,
+    "nominatedAt": 1598918425464,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 52,
+    "faults": 0,
+    "invalidityReasons": "",
+    "unclaimedEras": null,
+    "inclusion": 0,
+    "name": "SNZPool",
+    "stash": "FJ68vDYXj1A7QxHKf6j7qcCdShrU2o5A2sZ3y5w4Rst2d3a",
+    "kusamaStash": "",
+    "commission": 0,
+    "identity": {
+      "_id": "60c8e782144fab0012f1d9a5",
+      "name": "FJ68vDYXj1A7QxHKf6j7qcCdShrU2o5A2sZ3y5w4Rst2d3a",
+      "verified": false,
+      "sub": null
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "IDENTITY",
+        "_id": "60c8e192286fb6001250c693",
+        "valid": false,
+        "updated": 1623777682151,
+        "details": "SNZPool does not have an identity set."
+      },
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e336286fb6001251802d",
+        "valid": false,
+        "updated": 1623778102467,
+        "details": "SNZPool does not have a validate intention."
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e6a8144fab0012f16a37",
+        "valid": false,
+        "updated": 1623778984188,
+        "details": "SNZPool offline. Offline since 0."
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e6a8144fab0012f16a4d",
+        "valid": true,
+        "updated": 1623778984908,
+        "details": ""
+      },
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e6a8144fab0012f16a61",
+        "valid": true,
+        "updated": 1623778984968,
+        "details": ""
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e6a9144fab0012f16a6d",
+        "valid": true,
+        "updated": 1623778985012,
+        "details": ""
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e6a9144fab0012f16a77",
+        "valid": false,
+        "updated": 1623778985031,
+        "details": "SNZPool Not bonded to any account."
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e6a9144fab0012f16a81",
+        "valid": true,
+        "updated": 1623778985084,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60ae23da48b1bf00126c8c4d",
+      "address": "FJ68vDYXj1A7QxHKf6j7qcCdShrU2o5A2sZ3y5w4Rst2d3a",
+      "updated": 1622824583575,
+      "total": 109.26790306828853,
+      "aggregate": 108.40420849767513,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 4.907393211050939,
+      "nominated": 35,
+      "rank": 1.4968152866242037,
+      "unclaimed": 15,
+      "bonded": 0,
+      "faults": 5,
+      "offline": 2,
+      "randomness": 1.0079673527677842,
+      "__v": 0
+    },
+    "total": 109.26790306828853
+  },
+  {
+    "discoveredAt": 0,
+    "nominatedAt": 0,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 0,
+    "faults": 0,
+    "invalidityReasons": "",
+    "unclaimedEras": null,
+    "inclusion": 0,
+    "name": "Emmanuel",
+    "stash": "Cc6XtUACk7KZSYVkaNB3LD3T3rAX6dTESypXUGTZ9ENgFqs",
+    "kusamaStash": "",
+    "commission": 0,
+    "identity": {
+      "_id": "60c8e883144fab0012f25d04",
+      "name": "Cc6XtUACk7KZSYVkaNB3LD3T3rAX6dTESypXUGTZ9ENgFqs",
+      "verified": false,
+      "sub": null
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e1f1286fb6001251028a",
+        "valid": true,
+        "updated": 1623777777643,
+        "details": ""
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e1f1286fb60012510295",
+        "valid": true,
+        "updated": 1623777777661,
+        "details": ""
+      },
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e31c286fb6001251655c",
+        "valid": false,
+        "updated": 1623778076411,
+        "details": "Emmanuel does not have a validate intention."
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e7f3144fab0012f21108",
+        "valid": false,
+        "updated": 1623779315410,
+        "details": "Emmanuel offline. Offline since 0."
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e7f4144fab0012f21120",
+        "valid": true,
+        "updated": 1623779316073,
+        "details": ""
+      },
+      {
+        "type": "IDENTITY",
+        "_id": "60c8e7f4144fab0012f21134",
+        "valid": false,
+        "updated": 1623779316141,
+        "details": "Emmanuel does not have an identity set."
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e7f4144fab0012f2114b",
+        "valid": false,
+        "updated": 1623779316191,
+        "details": "Emmanuel Not bonded to any account."
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e7f4144fab0012f21157",
+        "valid": true,
+        "updated": 1623779316241,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60ae23db48b1bf00126c8c6c",
+      "address": "Cc6XtUACk7KZSYVkaNB3LD3T3rAX6dTESypXUGTZ9ENgFqs",
+      "updated": 1622824584353,
+      "total": 109.17420740866166,
+      "aggregate": 107,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 5,
+      "nominated": 35,
+      "rank": 0,
+      "unclaimed": 15,
+      "bonded": 0,
+      "faults": 5,
+      "offline": 2,
+      "randomness": 1.020319695408053,
+      "__v": 0
+    },
+    "total": 109.17420740866166
+  },
+  {
+    "discoveredAt": 1595758595492,
+    "nominatedAt": 1605657648040,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 34,
+    "faults": 0,
+    "invalidityReasons": "",
+    "unclaimedEras": null,
+    "inclusion": 0,
+    "name": "liberty-sv-validator-0",
+    "stash": "DAexrmQxJ8TKiqpcU2QSn2QiGppGCpWZkJ9p7Nyhm7DW6nB",
+    "kusamaStash": "",
+    "commission": 0,
+    "identity": {
+      "_id": "60c8e7ab144fab0012f1ee25",
+      "name": "DAexrmQxJ8TKiqpcU2QSn2QiGppGCpWZkJ9p7Nyhm7DW6nB",
+      "verified": false,
+      "sub": null
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e31b286fb6001251605c",
+        "valid": false,
+        "updated": 1623778075939,
+        "details": "liberty-sv-validator-0 does not have a validate intention."
+      },
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e34c286fb600125196bb",
+        "valid": true,
+        "updated": 1623778124011,
+        "details": ""
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e6d8144fab0012f18185",
+        "valid": false,
+        "updated": 1623779032108,
+        "details": "liberty-sv-validator-0 offline. Offline since 0."
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e6d8144fab0012f1819a",
+        "valid": true,
+        "updated": 1623779032692,
+        "details": ""
+      },
+      {
+        "type": "IDENTITY",
+        "_id": "60c8e6d8144fab0012f181ae",
+        "valid": false,
+        "updated": 1623779032762,
+        "details": "liberty-sv-validator-0 does not have an identity set."
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e6d8144fab0012f181b9",
+        "valid": true,
+        "updated": 1623779032788,
+        "details": ""
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e6d8144fab0012f181c3",
+        "valid": false,
+        "updated": 1623779032812,
+        "details": "liberty-sv-validator-0 Not bonded to any account."
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e6d8144fab0012f181ce",
+        "valid": true,
+        "updated": 1623779032853,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60ae23da48b1bf00126c8c5b",
+      "address": "DAexrmQxJ8TKiqpcU2QSn2QiGppGCpWZkJ9p7Nyhm7DW6nB",
+      "updated": 1622824583718,
+      "total": 108.95829844844393,
+      "aggregate": 106.77092948306627,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 3.8473626040853777,
+      "nominated": 35,
+      "rank": 0.9235668789808916,
+      "unclaimed": 15,
+      "bonded": 0,
+      "faults": 5,
+      "offline": 2,
+      "randomness": 1.0204865591783068,
+      "__v": 0
+    },
+    "total": 108.95829844844393
+  },
+  {
+    "discoveredAt": 0,
+    "nominatedAt": 0,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 0,
+    "faults": 0,
+    "invalidityReasons": "",
+    "unclaimedEras": [],
+    "inclusion": 0,
+    "name": "POLKADOT-KOREA",
+    "stash": "CupCfDnJnt5WYFPArdp5GNh3hFbyW7DwTRwhGadHyz3uLxR",
+    "kusamaStash": "",
+    "commission": 10,
+    "identity": {
+      "_id": "60c8e7c8144fab0012f1f9be",
+      "name": "polka_kr_stash"
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e31b286fb600125160ff",
+        "valid": true,
+        "updated": 1623778075986,
+        "details": ""
+      },
+      {
+        "type": "IDENTITY",
+        "_id": "60c8e355286fb60012519c96",
+        "valid": false,
+        "updated": 1623778133292,
+        "details": "POLKADOT-KOREA has an identity but is not verified by registrar."
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e6f0144fab0012f18cd5",
+        "valid": false,
+        "updated": 1623779056479,
+        "details": "POLKADOT-KOREA offline. Offline since 0."
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e6f1144fab0012f18cea",
+        "valid": true,
+        "updated": 1623779057038,
+        "details": ""
+      },
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e6f1144fab0012f18cff",
+        "valid": true,
+        "updated": 1623779057082,
+        "details": ""
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e6f1144fab0012f18d0a",
+        "valid": true,
+        "updated": 1623779057140,
+        "details": ""
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e6f1144fab0012f18d14",
+        "valid": false,
+        "updated": 1623779057181,
+        "details": "POLKADOT-KOREA has less than the minimum amount bonded: 2993966669011 is bonded."
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e6f1144fab0012f18d1e",
+        "valid": true,
+        "updated": 1623779057210,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60ae23da48b1bf00126c8c60",
+      "address": "CupCfDnJnt5WYFPArdp5GNh3hFbyW7DwTRwhGadHyz3uLxR",
+      "updated": 1622824583842,
+      "total": 108.75598496552978,
+      "aggregate": 107.37933499281482,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 5,
+      "nominated": 35,
+      "rank": 0,
+      "unclaimed": 15,
+      "bonded": 0.37933499281482064,
+      "faults": 5,
+      "offline": 2,
+      "randomness": 1.0128204367516997,
+      "__v": 0
+    },
+    "total": 108.75598496552978
+  },
+  {
+    "discoveredAt": 1611152820395,
+    "nominatedAt": 0,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 0,
+    "faults": 0,
+    "invalidityReasons": "",
+    "unclaimedEras": null,
+    "inclusion": 0,
+    "name": "stakecrypto-validator-0",
+    "stash": "DMjLmWFhQ7dF4jr6FDvNEfCmthTwGGERz56LcEv4qPkokbF",
+    "kusamaStash": "",
+    "commission": 0,
+    "identity": {
+      "_id": "60c8e896144fab0012f26586",
+      "name": "DMjLmWFhQ7dF4jr6FDvNEfCmthTwGGERz56LcEv4qPkokbF",
+      "verified": false,
+      "sub": null
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "IDENTITY",
+        "_id": "60c8e1fb286fb600125107d9",
+        "valid": false,
+        "updated": 1623777787817,
+        "details": "stakecrypto-validator-0 does not have an identity set."
+      },
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e3af286fb6001251de55",
+        "valid": false,
+        "updated": 1623778223490,
+        "details": "stakecrypto-validator-0 does not have a validate intention."
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e81e144fab0012f225aa",
+        "valid": true,
+        "updated": 1623779358144,
+        "details": ""
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e820144fab0012f2271b",
+        "valid": true,
+        "updated": 1623779360651,
+        "details": ""
+      },
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e820144fab0012f2272e",
+        "valid": true,
+        "updated": 1623779360718,
+        "details": ""
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e820144fab0012f2273a",
+        "valid": true,
+        "updated": 1623779360745,
+        "details": ""
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e820144fab0012f22745",
+        "valid": false,
+        "updated": 1623779360785,
+        "details": "stakecrypto-validator-0 Not bonded to any account."
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e820144fab0012f2274f",
+        "valid": true,
+        "updated": 1623779360835,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60ae23db48b1bf00126c8c6f",
+      "address": "DMjLmWFhQ7dF4jr6FDvNEfCmthTwGGERz56LcEv4qPkokbF",
+      "updated": 1622751622293,
+      "total": 108.30870411568733,
+      "aggregate": 103.38311770316292,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 1.3831177031629227,
+      "nominated": 35,
+      "rank": 0,
+      "unclaimed": 15,
+      "bonded": 0,
+      "faults": 5,
+      "offline": 2,
+      "randomness": 1.0476440111495469,
+      "__v": 0
+    },
+    "total": 108.30870411568733
+  },
+  {
+    "discoveredAt": 1609122844876,
+    "nominatedAt": 1609683300429,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 0,
+    "faults": 0,
+    "invalidityReasons": "",
+    "unclaimedEras": [],
+    "inclusion": 0,
+    "name": "oz-stakewithme-sv-validator-0",
+    "stash": "FZr7fhFwhFRgjHc2R3ahkRXgkn7NJjDddZRKH9kGe11rKH7",
+    "kusamaStash": "",
+    "commission": 0,
+    "identity": {
+      "_id": "60c8e86b144fab0012f2516f",
+      "name": "FZr7fhFwhFRgjHc2R3ahkRXgkn7NJjDddZRKH9kGe11rKH7",
+      "verified": false,
+      "sub": null
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e1e6286fb6001250fbe5",
+        "valid": true,
+        "updated": 1623777766874,
+        "details": ""
+      },
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e31c286fb600125164a1",
+        "valid": false,
+        "updated": 1623778076275,
+        "details": "oz-stakewithme-sv-validator-0 does not have a validate intention."
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e7cb144fab0012f1faf9",
+        "valid": true,
+        "updated": 1623779275064,
+        "details": ""
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e7cb144fab0012f1fb10",
+        "valid": true,
+        "updated": 1623779275678,
+        "details": ""
+      },
+      {
+        "type": "IDENTITY",
+        "_id": "60c8e7cb144fab0012f1fb25",
+        "valid": false,
+        "updated": 1623779275741,
+        "details": "oz-stakewithme-sv-validator-0 does not have an identity set."
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e7cb144fab0012f1fb31",
+        "valid": true,
+        "updated": 1623779275795,
+        "details": ""
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e7cb144fab0012f1fb3c",
+        "valid": false,
+        "updated": 1623779275887,
+        "details": "oz-stakewithme-sv-validator-0 has less than the minimum amount bonded: 80359395333 is bonded."
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e7cb144fab0012f1fb47",
+        "valid": true,
+        "updated": 1623779275934,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60ae23db48b1bf00126c8c6a",
+      "address": "FZr7fhFwhFRgjHc2R3ahkRXgkn7NJjDddZRKH9kGe11rKH7",
+      "updated": 1622824584187,
+      "total": 108.03520219262519,
+      "aggregate": 103.69339830890326,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 1.6933983089032512,
+      "nominated": 35,
+      "rank": 0,
+      "unclaimed": 15,
+      "bonded": 0,
+      "faults": 5,
+      "offline": 2,
+      "randomness": 1.0418715555139555,
+      "__v": 0
+    },
+    "total": 108.03520219262519
+  },
+  {
+    "discoveredAt": 1592225235358,
+    "nominatedAt": 1610368752439,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 63,
+    "faults": 1,
+    "invalidityReasons": "",
+    "unclaimedEras": null,
+    "inclusion": 0,
+    "name": "Tornado-V1",
+    "stash": "HRYTEruAjwDD46kkgaTYpGHQC6uea3AkeLJg4iterSmmjo2",
+    "kusamaStash": "",
+    "commission": 0,
+    "identity": {
+      "_id": "60c8e7c3144fab0012f1f749",
+      "name": "HRYTEruAjwDD46kkgaTYpGHQC6uea3AkeLJg4iterSmmjo2",
+      "verified": false,
+      "sub": null
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e31b286fb600125160da",
+        "valid": false,
+        "updated": 1623778075981,
+        "details": "Tornado-V1 does not have a validate intention."
+      },
+      {
+        "type": "IDENTITY",
+        "_id": "60c8e353286fb60012519b42",
+        "valid": false,
+        "updated": 1623778131405,
+        "details": "OneMoreBlock-01 does not have an identity set."
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e6ea144fab0012f18a26",
+        "valid": false,
+        "updated": 1623779050510,
+        "details": "Tornado-V1 offline. Offline since 0."
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e6eb144fab0012f18a39",
+        "valid": true,
+        "updated": 1623779051132,
+        "details": ""
+      },
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e6eb144fab0012f18a4d",
+        "valid": true,
+        "updated": 1623779051186,
+        "details": ""
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e6eb144fab0012f18a58",
+        "valid": true,
+        "updated": 1623779051205,
+        "details": ""
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e6eb144fab0012f18a62",
+        "valid": false,
+        "updated": 1623779051236,
+        "details": "OneMoreBlock-01 Not bonded to any account."
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e6eb144fab0012f18a6c",
+        "valid": true,
+        "updated": 1623779051270,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60ae23da48b1bf00126c8c58",
+      "address": "HRYTEruAjwDD46kkgaTYpGHQC6uea3AkeLJg4iterSmmjo2",
+      "updated": 1622824583830,
+      "total": 107.33685802226861,
+      "aggregate": 105.2701943241374,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 3.270194324137398,
+      "nominated": 35,
+      "rank": 0,
+      "unclaimed": 15,
+      "bonded": 0,
+      "faults": 5,
+      "offline": 2,
+      "randomness": 1.0196319928104982,
+      "__v": 0
+    },
+    "total": 107.33685802226861
+  },
+  {
+    "discoveredAt": 1599339630167,
+    "nominatedAt": 0,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 0,
+    "faults": 0,
+    "invalidityReasons": "",
+    "unclaimedEras": [],
+    "inclusion": 0,
+    "name": "OneMoreBlock-01",
+    "stash": "HRYTEruAjwDD46kkgaTYpGHQC6uea3AkeLJg4iterSmmjo2",
+    "kusamaStash": "",
+    "validity": [],
+    "score": {
+      "_id": "60ae23da48b1bf00126c8c58",
+      "address": "HRYTEruAjwDD46kkgaTYpGHQC6uea3AkeLJg4iterSmmjo2",
+      "updated": 1622824583830,
+      "total": 107.33685802226861,
+      "aggregate": 105.2701943241374,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 3.270194324137398,
+      "nominated": 35,
+      "rank": 0,
+      "unclaimed": 15,
+      "bonded": 0,
+      "faults": 5,
+      "offline": 2,
+      "randomness": 1.0196319928104982,
+      "__v": 0
+    },
+    "total": 107.33685802226861
+  },
+  {
+    "discoveredAt": 1599504576476,
+    "nominatedAt": 1602752783576,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 13,
+    "faults": 0,
+    "invalidityReasons": "",
+    "unclaimedEras": null,
+    "inclusion": 0,
+    "name": "TX1",
+    "stash": "EtuN1h92gaV961S15PwxN6GHyeonaojALZ8Dddgn1oDPRFt",
+    "kusamaStash": "",
+    "commission": 0,
+    "identity": {
+      "_id": "60c8e7c3144fab0012f1f786",
+      "name": "EtuN1h92gaV961S15PwxN6GHyeonaojALZ8Dddgn1oDPRFt",
+      "verified": false,
+      "sub": null
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e31b286fb600125160e3",
+        "valid": false,
+        "updated": 1623778075982,
+        "details": "TX1 does not have a validate intention."
+      },
+      {
+        "type": "IDENTITY",
+        "_id": "60c8e353286fb60012519b95",
+        "valid": false,
+        "updated": 1623778131886,
+        "details": "TX1 does not have an identity set."
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e6eb144fab0012f18a78",
+        "valid": false,
+        "updated": 1623779051287,
+        "details": "TX1 offline. Offline since 0."
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e6eb144fab0012f18a8d",
+        "valid": true,
+        "updated": 1623779051890,
+        "details": ""
+      },
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e6eb144fab0012f18aa2",
+        "valid": true,
+        "updated": 1623779051980,
+        "details": ""
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e6ec144fab0012f18aad",
+        "valid": true,
+        "updated": 1623779052015,
+        "details": ""
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e6ec144fab0012f18ab7",
+        "valid": false,
+        "updated": 1623779052080,
+        "details": "TX1 Not bonded to any account."
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e6ec144fab0012f18ac2",
+        "valid": true,
+        "updated": 1623779052166,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60ae23da48b1bf00126c8c5f",
+      "address": "EtuN1h92gaV961S15PwxN6GHyeonaojALZ8Dddgn1oDPRFt",
+      "updated": 1622824583834,
+      "total": 107.29549310544772,
+      "aggregate": 105.49838640240698,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 3.243609332343288,
+      "nominated": 35,
+      "rank": 0.25477707006369427,
+      "unclaimed": 15,
+      "bonded": 0,
+      "faults": 5,
+      "offline": 2,
+      "randomness": 1.0170344472965298,
+      "__v": 0
+    },
+    "total": 107.29549310544772
+  },
+  {
+    "discoveredAt": 0,
+    "nominatedAt": 0,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 0,
+    "faults": 0,
+    "invalidityReasons": "",
+    "unclaimedEras": null,
+    "inclusion": 0,
+    "name": "KusamaLlama",
+    "stash": "FzTUehLmyanEjDNnbFGkU8b1XXjjxaDWfV6nYVSTyaoUMPB",
+    "kusamaStash": "",
+    "commission": 0,
+    "identity": {
+      "_id": "60c8e8f0144fab0012f29342",
+      "name": "FzTUehLmyanEjDNnbFGkU8b1XXjjxaDWfV6nYVSTyaoUMPB",
+      "verified": false,
+      "sub": null
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e225286fb600125122b2",
+        "valid": true,
+        "updated": 1623777829215,
+        "details": ""
+      },
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e31c286fb600125168e0",
+        "valid": false,
+        "updated": 1623778076810,
+        "details": "KusamaLlama does not have a validate intention."
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e8b8144fab0012f275fd",
+        "valid": false,
+        "updated": 1623779512745,
+        "details": "KusamaLlama offline. Offline since 0."
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e8b9144fab0012f27616",
+        "valid": true,
+        "updated": 1623779513353,
+        "details": ""
+      },
+      {
+        "type": "IDENTITY",
+        "_id": "60c8e8b9144fab0012f2762b",
+        "valid": false,
+        "updated": 1623779513404,
+        "details": "KusamaLlama does not have an identity set."
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e8b9144fab0012f27637",
+        "valid": true,
+        "updated": 1623779513450,
+        "details": ""
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e8b9144fab0012f27642",
+        "valid": false,
+        "updated": 1623779513490,
+        "details": "KusamaLlama Not bonded to any account."
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e8b9144fab0012f2764c",
+        "valid": true,
+        "updated": 1623779513534,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60ae4b262211ba0012f5e73a",
+      "address": "FzTUehLmyanEjDNnbFGkU8b1XXjjxaDWfV6nYVSTyaoUMPB",
+      "updated": 1622751622918,
+      "total": 107.19279591579753,
+      "aggregate": 107,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 5,
+      "nominated": 35,
+      "rank": 0,
+      "unclaimed": 15,
+      "bonded": 0,
+      "faults": 5,
+      "offline": 2,
+      "randomness": 1.001801830988762,
+      "__v": 0
+    },
+    "total": 107.19279591579753
+  },
+  {
+    "discoveredAt": 1592310753292,
+    "nominatedAt": 1616164200149,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 25,
+    "faults": 1,
+    "invalidityReasons": "",
+    "unclaimedEras": [],
+    "inclusion": 0,
+    "name": "Red Dog Staking",
+    "stash": "G9kX2FiFymTEdUL1CgZj3pwjQQoQu6Gid7wzpraUZPHVrxb",
+    "kusamaStash": "",
+    "commission": 0,
+    "identity": {
+      "_id": "60c8e7a0144fab0012f1e875",
+      "name": "Red Dog Staking",
+      "verified": true
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "IDENTITY",
+        "_id": "60c8e19d286fb6001250cdc5",
+        "valid": true,
+        "updated": 1623777693260,
+        "details": ""
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e346286fb60012519326",
+        "valid": true,
+        "updated": 1623778118725,
+        "details": ""
+      },
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e346286fb6001251933a",
+        "valid": true,
+        "updated": 1623778118761,
+        "details": ""
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e346286fb60012519345",
+        "valid": true,
+        "updated": 1623778118780,
+        "details": ""
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e6c7144fab0012f179ea",
+        "valid": false,
+        "updated": 1623779015676,
+        "details": "Red Dog Staking offline. Offline since 0."
+      },
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e6c8144fab0012f179f6",
+        "valid": false,
+        "updated": 1623779016595,
+        "details": "Red Dog Staking does not have a validate intention."
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e6ca144fab0012f17b63",
+        "valid": false,
+        "updated": 1623779018363,
+        "details": "Red Dog Staking has less than the minimum amount bonded: 4708399760 is bonded."
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e6ca144fab0012f17b89",
+        "valid": true,
+        "updated": 1623779018496,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60ae23da48b1bf00126c8c59",
+      "address": "G9kX2FiFymTEdUL1CgZj3pwjQQoQu6Gid7wzpraUZPHVrxb",
+      "updated": 1622824583681,
+      "total": 106.99102746272985,
+      "aggregate": 104.54000644740101,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 4.403063772241773,
+      "nominated": 35,
+      "rank": 0.6369426751592356,
+      "unclaimed": 15,
+      "bonded": 0,
+      "faults": 2.5,
+      "offline": 2,
+      "randomness": 1.023445770653956,
+      "__v": 0
+    },
+    "total": 106.99102746272985
+  },
+  {
+    "discoveredAt": 1623066078680,
+    "nominatedAt": 0,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 0,
+    "faults": 0,
+    "invalidityReasons": "",
+    "unclaimedEras": [],
+    "inclusion": 0,
+    "name": "STARDUST STAKING",
+    "stash": "G4ZLdEFaJBK7BfikyUCHuJ5ttmuivAeGihnGFWX1VDgDteE",
+    "kusamaStash": "",
+    "commission": 5,
+    "identity": {
+      "_id": "60c8e457286fb600125250af",
+      "name": "STARDUST STAKING",
+      "verified": true,
+      "sub": "01"
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e0e0286fb6001250a7c7",
+        "valid": true,
+        "updated": 1623777504482,
+        "details": ""
+      },
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e31d286fb60012516d92",
+        "valid": true,
+        "updated": 1623778077074,
+        "details": ""
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e43e286fb60012524cd2",
+        "valid": true,
+        "updated": 1623778366742,
+        "details": ""
+      },
+      {
+        "type": "IDENTITY",
+        "_id": "60c8e43e286fb60012524ce6",
+        "valid": true,
+        "updated": 1623778366799,
+        "details": ""
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e43e286fb60012524cf2",
+        "valid": true,
+        "updated": 1623778366840,
+        "details": ""
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e43e286fb60012524cfe",
+        "valid": true,
+        "updated": 1623778366870,
+        "details": ""
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e43e286fb60012524d09",
+        "valid": true,
+        "updated": 1623778366910,
+        "details": ""
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e97cdee1c500134440a9",
+        "valid": true,
+        "updated": 1623779708778,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60c7420ee998810013a02c44",
+      "address": "G4ZLdEFaJBK7BfikyUCHuJ5ttmuivAeGihnGFWX1VDgDteE",
+      "updated": 1623778339778,
+      "total": 106.97162452870928,
+      "aggregate": 103.14781719626369,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 0,
+      "nominated": 35,
+      "rank": 0,
+      "unclaimed": 15,
+      "bonded": 1.147817196263689,
+      "faults": 5,
+      "offline": 2,
+      "randomness": 1.037071141555714,
+      "__v": 0
+    },
+    "total": 106.97162452870928
+  },
+  {
+    "discoveredAt": 1619389738557,
+    "nominatedAt": 0,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 0,
+    "faults": 0,
+    "invalidityReasons": "",
+    "unclaimedEras": null,
+    "inclusion": 0,
+    "name": "shandu-europa-sv-validator-1",
+    "stash": "HZRwFw8eBaM6WSRMCmnXk2foZ4NgVY7CwK4CwxiYPDfHGur",
+    "kusamaStash": "",
+    "commission": 0,
+    "identity": {
+      "_id": "60c8e448286fb60012524f08",
+      "name": "shandu.io",
+      "verified": true,
+      "sub": "europa"
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "IDENTITY",
+        "_id": "60c8dc79286fb600124ef5eb",
+        "valid": true,
+        "updated": 1623776377287,
+        "details": ""
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e251286fb60012513d01",
+        "valid": true,
+        "updated": 1623777873275,
+        "details": ""
+      },
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e31c286fb60012516bbf",
+        "valid": false,
+        "updated": 1623778076981,
+        "details": "shandu-europa-sv-validator-1 does not have a validate intention."
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e41d286fb600125233d8",
+        "valid": false,
+        "updated": 1623778333780,
+        "details": "shandu-europa-sv-validator-1 offline. Offline since 1623775019306."
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e41e286fb600125233f1",
+        "valid": true,
+        "updated": 1623778334111,
+        "details": ""
+      },
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e41e286fb60012523406",
+        "valid": true,
+        "updated": 1623778334185,
+        "details": ""
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e41e286fb6001252341a",
+        "valid": false,
+        "updated": 1623778334243,
+        "details": "shandu-europa-sv-validator-1 Not bonded to any account."
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e41e286fb60012523426",
+        "valid": true,
+        "updated": 1623778334277,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60ae19958d26630013bc5649",
+      "address": "HZRwFw8eBaM6WSRMCmnXk2foZ4NgVY7CwK4CwxiYPDfHGur",
+      "updated": 1622751623569,
+      "total": 106.92568785884443,
+      "aggregate": 102.05638191297979,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 0.05638191297978934,
+      "nominated": 35,
+      "rank": 0,
+      "unclaimed": 15,
+      "bonded": 0,
+      "faults": 5,
+      "offline": 2,
+      "randomness": 1.0477119201620977,
+      "__v": 0
+    },
+    "total": 106.92568785884443
+  },
+  {
+    "discoveredAt": 1618003605142,
+    "nominatedAt": 0,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 0,
+    "faults": 0,
+    "invalidityReasons": "",
+    "unclaimedEras": null,
+    "inclusion": 0,
+    "name": "Manteiv #2",
+    "stash": "DYJd5X16MYafkwUV3reP9X4A7r4V3GqJg6LfRC3ehA3V9Rk",
+    "kusamaStash": "",
+    "commission": 0,
+    "identity": {
+      "_id": "60c8e444286fb60012524e80",
+      "name": "DYJd5X16MYafkwUV3reP9X4A7r4V3GqJg6LfRC3ehA3V9Rk",
+      "verified": false,
+      "sub": null
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e245286fb6001251363c",
+        "valid": true,
+        "updated": 1623777861939,
+        "details": ""
+      },
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e31c286fb60012516b03",
+        "valid": false,
+        "updated": 1623778076937,
+        "details": "Manteiv #2 does not have a validate intention."
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e40e286fb60012522a85",
+        "valid": false,
+        "updated": 1623778318402,
+        "details": "Manteiv #2 offline. Offline since 0."
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e40e286fb60012522a9f",
+        "valid": true,
+        "updated": 1623778318728,
+        "details": ""
+      },
+      {
+        "type": "IDENTITY",
+        "_id": "60c8e40e286fb60012522aab",
+        "valid": false,
+        "updated": 1623778318773,
+        "details": "Manteiv #2 does not have an identity set."
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e40e286fb60012522ac0",
+        "valid": true,
+        "updated": 1623778318807,
+        "details": ""
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e40e286fb60012522aca",
+        "valid": false,
+        "updated": 1623778318841,
+        "details": "Manteiv #2 Not bonded to any account."
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e40e286fb60012522ad5",
+        "valid": true,
+        "updated": 1623778318869,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60ae19958d26630013bc563f",
+      "address": "DYJd5X16MYafkwUV3reP9X4A7r4V3GqJg6LfRC3ehA3V9Rk",
+      "updated": 1622751623404,
+      "total": 106.72658418273522,
+      "aggregate": 102.27964901063453,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 0.27964901063451897,
+      "nominated": 35,
+      "rank": 0,
+      "unclaimed": 15,
+      "bonded": 0,
+      "faults": 5,
+      "offline": 2,
+      "randomness": 1.0434782013344446,
+      "__v": 0
+    },
+    "total": 106.72658418273522
+  },
+  {
+    "discoveredAt": 1607708474433,
+    "nominatedAt": 1610446500423,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 42,
+    "faults": 0,
+    "invalidityReasons": "",
+    "unclaimedEras": [],
+    "inclusion": 0,
+    "name": "needlecast_labs",
+    "stash": "DVi68PeuKpQAHrCyBnHHhCQoonMXu7ZrL8keRxC7i4Doj9E",
+    "kusamaStash": "",
+    "commission": 3,
+    "identity": {
+      "_id": "60c8e81e144fab0012f225bb",
+      "name": "Needlecast Labs",
+      "verified": true
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "CLIENT_UPGRADE",
+        "_id": "60bf5122b1f2d80013e2a033",
+        "valid": false,
+        "updated": 1623150882506,
+        "details": "needlecast_labs is not on the latest client version"
+      },
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e1ce286fb6001250ed60",
+        "valid": true,
+        "updated": 1623777742789,
+        "details": ""
+      },
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e31c286fb6001251630c",
+        "valid": true,
+        "updated": 1623778076153,
+        "details": ""
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e774144fab0012f1d0b8",
+        "valid": true,
+        "updated": 1623779188183,
+        "details": ""
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e774144fab0012f1d0da",
+        "valid": true,
+        "updated": 1623779188841,
+        "details": ""
+      },
+      {
+        "type": "IDENTITY",
+        "_id": "60c8e774144fab0012f1d0e6",
+        "valid": true,
+        "updated": 1623779188871,
+        "details": ""
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e774144fab0012f1d0fd",
+        "valid": true,
+        "updated": 1623779188931,
+        "details": ""
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e775144fab0012f1d10d",
+        "valid": false,
+        "updated": 1623779188999,
+        "details": "needlecast_labs has less than the minimum amount bonded: 30113371111 is bonded."
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e775144fab0012f1d11b",
+        "valid": true,
+        "updated": 1623779189097,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60ae23db48b1bf00126c8c66",
+      "address": "DVi68PeuKpQAHrCyBnHHhCQoonMXu7ZrL8keRxC7i4Doj9E",
+      "updated": 1622824584004,
+      "total": 106.62129358903529,
+      "aggregate": 105.0997014456917,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 1.9213574966471036,
+      "nominated": 35,
+      "rank": 1.178343949044586,
+      "unclaimed": 15,
+      "bonded": 0,
+      "faults": 5,
+      "offline": 2,
+      "randomness": 1.0144776067145143,
+      "__v": 0
+    },
+    "total": 106.62129358903529
+  },
+  {
+    "discoveredAt": 1611141920009,
+    "nominatedAt": 0,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 0,
+    "faults": 0,
+    "invalidityReasons": "",
+    "unclaimedEras": null,
+    "inclusion": 0,
+    "name": "metapyr",
+    "stash": "Dr9Yv9VdCxETbj9mvrr64gqWPJQd7m4sb1dckH6DMLRQgUC",
+    "kusamaStash": "",
+    "commission": 0,
+    "identity": {
+      "_id": "60c8e895144fab0012f26532",
+      "name": "Dr9Yv9VdCxETbj9mvrr64gqWPJQd7m4sb1dckH6DMLRQgUC",
+      "verified": false,
+      "sub": null
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "IDENTITY",
+        "_id": "60c8e05c286fb60012504aa8",
+        "valid": false,
+        "updated": 1623777372004,
+        "details": "metapyr does not have an identity set."
+      },
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e31c286fb600125165e7",
+        "valid": false,
+        "updated": 1623778076627,
+        "details": "metapyr does not have a validate intention."
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e81d144fab0012f2254e",
+        "valid": false,
+        "updated": 1623779357046,
+        "details": "metapyr offline. Offline since 0."
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e81d144fab0012f22567",
+        "valid": true,
+        "updated": 1623779357847,
+        "details": ""
+      },
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e81d144fab0012f2257d",
+        "valid": true,
+        "updated": 1623779357980,
+        "details": ""
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e81e144fab0012f22589",
+        "valid": true,
+        "updated": 1623779358011,
+        "details": ""
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e81e144fab0012f22593",
+        "valid": false,
+        "updated": 1623779358033,
+        "details": "metapyr Not bonded to any account."
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e81e144fab0012f2259e",
+        "valid": true,
+        "updated": 1623779358122,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60ae23db48b1bf00126c8c6e",
+      "address": "Dr9Yv9VdCxETbj9mvrr64gqWPJQd7m4sb1dckH6DMLRQgUC",
+      "updated": 1622824584442,
+      "total": 106.50141737417523,
+      "aggregate": 103.36797668432786,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 1.3679766843278485,
+      "nominated": 35,
+      "rank": 0,
+      "unclaimed": 15,
+      "bonded": 0,
+      "faults": 5,
+      "offline": 2,
+      "randomness": 1.0303134567431507,
+      "__v": 0
+    },
+    "total": 106.50141737417523
+  },
+  {
+    "discoveredAt": 1608561696477,
+    "nominatedAt": 1615397779504,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 37,
+    "faults": 0,
+    "invalidityReasons": "",
+    "unclaimedEras": null,
+    "inclusion": 0,
+    "name": "dolphintwo",
+    "stash": "EAJ5LQyAP2kyn4erJLRdNgenZax86Rk71Xqd8GBQHsYbfe9",
+    "kusamaStash": "",
+    "commission": 0,
+    "identity": {
+      "_id": "60c8e842144fab0012f23770",
+      "name": "EAJ5LQyAP2kyn4erJLRdNgenZax86Rk71Xqd8GBQHsYbfe9",
+      "verified": false,
+      "sub": null
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "IDENTITY",
+        "_id": "60c8de9b286fb600124f865a",
+        "valid": false,
+        "updated": 1623776923778,
+        "details": "dolphintwo does not have an identity set."
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e387286fb6001251bc0d",
+        "valid": true,
+        "updated": 1623778183093,
+        "details": ""
+      },
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e387286fb6001251bc21",
+        "valid": true,
+        "updated": 1623778183131,
+        "details": ""
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e387286fb6001251bc2c",
+        "valid": true,
+        "updated": 1623778183151,
+        "details": ""
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e7b2144fab0012f1f136",
+        "valid": true,
+        "updated": 1623779250094,
+        "details": ""
+      },
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e7b4144fab0012f1f279",
+        "valid": false,
+        "updated": 1623779252869,
+        "details": "dolphintwo does not have a validate intention."
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e7b5144fab0012f1f2d0",
+        "valid": false,
+        "updated": 1623779253149,
+        "details": "dolphintwo Not bonded to any account."
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e7b5144fab0012f1f2dd",
+        "valid": true,
+        "updated": 1623779253206,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60ae23db48b1bf00126c8c69",
+      "address": "EAJ5LQyAP2kyn4erJLRdNgenZax86Rk71Xqd8GBQHsYbfe9",
+      "updated": 1622824584143,
+      "total": 105.9034374012023,
+      "aggregate": 104.80294890140578,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 1.7838406211510072,
+      "nominated": 35,
+      "rank": 1.019108280254777,
+      "unclaimed": 15,
+      "bonded": 0,
+      "faults": 5,
+      "offline": 2,
+      "randomness": 1.0105005489953514,
+      "__v": 0
+    },
+    "total": 105.9034374012023
+  },
+  {
+    "discoveredAt": 1612711024243,
+    "nominatedAt": 0,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 0,
+    "faults": 0,
+    "invalidityReasons": "",
+    "unclaimedEras": [],
+    "inclusion": 0,
+    "name": "hypnos",
+    "stash": "FLiH2NCS22iR3CytTaqM3kyezKZEkDTUbFqTsXLvMy6yu4s",
+    "kusamaStash": "",
+    "commission": 5,
+    "identity": {
+      "_id": "60c8e8bf144fab0012f2798a",
+      "name": "hypnos",
+      "verified": true
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "CLIENT_UPGRADE",
+        "_id": "60bf5124b1f2d80013e2a3d2",
+        "valid": false,
+        "updated": 1623150884525,
+        "details": "hypnos is not on the latest client version"
+      },
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e31c286fb60012516777",
+        "valid": true,
+        "updated": 1623778076731,
+        "details": ""
+      },
+      {
+        "type": "IDENTITY",
+        "_id": "60c8e3cf286fb6001251f3cb",
+        "valid": true,
+        "updated": 1623778255771,
+        "details": ""
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e87d144fab0012f25a4c",
+        "valid": true,
+        "updated": 1623779453511,
+        "details": ""
+      },
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e87d144fab0012f25a63",
+        "valid": true,
+        "updated": 1623779453572,
+        "details": ""
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e87d144fab0012f25a6f",
+        "valid": true,
+        "updated": 1623779453601,
+        "details": ""
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e87d144fab0012f25a7b",
+        "valid": false,
+        "updated": 1623779453652,
+        "details": "hypnos has less than the minimum amount bonded: 1820083338374 is bonded."
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e87d144fab0012f25a87",
+        "valid": true,
+        "updated": 1623779453688,
+        "details": ""
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e97bdee1c50013443bb3",
+        "valid": true,
+        "updated": 1623779707553,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60ae4b262211ba0012f5e71e",
+      "address": "FLiH2NCS22iR3CytTaqM3kyezKZEkDTUbFqTsXLvMy6yu4s",
+      "updated": 1622751622635,
+      "total": 105.74182207910864,
+      "aggregate": 103.46538640625204,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 1.1321348995361942,
+      "nominated": 35,
+      "rank": 0,
+      "unclaimed": 15,
+      "bonded": 0.3332515067158333,
+      "faults": 5,
+      "offline": 2,
+      "randomness": 1.0220019056800145,
+      "__v": 0
+    },
+    "total": 105.74182207910864
+  },
+  {
+    "discoveredAt": 1589750322185,
+    "nominatedAt": 1605657649551,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 42,
+    "faults": 1,
+    "invalidityReasons": "",
+    "unclaimedEras": null,
+    "inclusion": 0,
+    "name": "LunaNova-KSM-Val1-ValidatorA",
+    "stash": "CgpV58FSvuzGmfZXfiAQfkdDMVcFtpMq91ahk2zNYZdjdR9",
+    "kusamaStash": "",
+    "commission": 0,
+    "identity": {
+      "_id": "60c8e790144fab0012f1e1cd",
+      "name": "CgpV58FSvuzGmfZXfiAQfkdDMVcFtpMq91ahk2zNYZdjdR9",
+      "verified": false,
+      "sub": null
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "IDENTITY",
+        "_id": "60c8e195286fb6001250c8f7",
+        "valid": false,
+        "updated": 1623777685592,
+        "details": "LunaNova-KSM-Val1-ValidatorA does not have an identity set."
+      },
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e31b286fb60012515f74",
+        "valid": false,
+        "updated": 1623778075871,
+        "details": "LunaNova-KSM-Val1-ValidatorA does not have a validate intention."
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e6b4144fab0012f17105",
+        "valid": false,
+        "updated": 1623778996424,
+        "details": "LunaNova-KSM-Val1-ValidatorA offline. Offline since 0."
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e6b4144fab0012f1711a",
+        "valid": true,
+        "updated": 1623778996894,
+        "details": ""
+      },
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e6b4144fab0012f1712e",
+        "valid": true,
+        "updated": 1623778996954,
+        "details": ""
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e6b4144fab0012f17139",
+        "valid": true,
+        "updated": 1623778996985,
+        "details": ""
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e6b5144fab0012f17143",
+        "valid": false,
+        "updated": 1623778997013,
+        "details": "LunaNova-KSM-Val1-ValidatorA Not bonded to any account."
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e6b5144fab0012f1714d",
+        "valid": true,
+        "updated": 1623778997044,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60ae23da48b1bf00126c8c51",
+      "address": "CgpV58FSvuzGmfZXfiAQfkdDMVcFtpMq91ahk2zNYZdjdR9",
+      "updated": 1622824583598,
+      "total": 105.71058199233181,
+      "aggregate": 105.49408164155564,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 4.815737692511057,
+      "nominated": 35,
+      "rank": 1.178343949044586,
+      "unclaimed": 15,
+      "bonded": 0,
+      "faults": 2.5,
+      "offline": 2,
+      "randomness": 1.0020522511538779,
+      "__v": 0
+    },
+    "total": 105.71058199233181
+  },
+  {
+    "discoveredAt": 1589361369593,
+    "nominatedAt": 1605657648040,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 6,
+    "faults": 3,
+    "invalidityReasons": "",
+    "unclaimedEras": [],
+    "inclusion": 0,
+    "name": "robonomics_team-01",
+    "stash": "Dcw5vVBmon1PCERJXkYLvvMVmAE8xdqytUwNQLE8p1Hm33J",
+    "kusamaStash": "",
+    "commission": 3,
+    "identity": {
+      "_id": "60c8e787144fab0012f1dc44",
+      "name": "ROBONOMICS-TEAM-01"
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "CLIENT_UPGRADE",
+        "_id": "60bf5467b1f2d80013e44c76",
+        "valid": true,
+        "updated": 1623151719106,
+        "details": ""
+      },
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e193286fb6001250c7f4",
+        "valid": true,
+        "updated": 1623777683805,
+        "details": ""
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e339286fb6001251819a",
+        "valid": true,
+        "updated": 1623778105080,
+        "details": ""
+      },
+      {
+        "type": "IDENTITY",
+        "_id": "60c8e339286fb600125181b0",
+        "valid": false,
+        "updated": 1623778105197,
+        "details": "robonomics_team-01 has an identity but is not verified by registrar."
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e339286fb600125181bc",
+        "valid": true,
+        "updated": 1623778105252,
+        "details": ""
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e6af144fab0012f16ea5",
+        "valid": false,
+        "updated": 1623778991805,
+        "details": "robonomics_team-01 offline. Offline since 0."
+      },
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e6b0144fab0012f16eb1",
+        "valid": true,
+        "updated": 1623778992534,
+        "details": ""
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e6b2144fab0012f17032",
+        "valid": false,
+        "updated": 1623778994721,
+        "details": "robonomics_team-01 has less than the minimum amount bonded: 16192647331046 is bonded."
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e6b2144fab0012f17047",
+        "valid": true,
+        "updated": 1623778994835,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60ae23da48b1bf00126c8c4f",
+      "address": "Dcw5vVBmon1PCERJXkYLvvMVmAE8xdqytUwNQLE8p1Hm33J",
+      "updated": 1622824583591,
+      "total": 105.68829159444205,
+      "aggregate": 104.68560540797945,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 4.878426585213821,
+      "nominated": 35,
+      "rank": 0.03184713375796178,
+      "unclaimed": 15,
+      "bonded": 2.7753316890076705,
+      "faults": 0,
+      "offline": 2,
+      "randomness": 1.0095780712405964,
+      "__v": 0
+    },
+    "total": 105.68829159444205
+  },
+  {
+    "discoveredAt": 1622677514164,
+    "nominatedAt": 0,
+    "offlineSince": 0,
+    "offlineAccumulated": 0,
+    "rank": 0,
+    "faults": 0,
+    "invalidityReasons": "",
+    "unclaimedEras": [],
+    "inclusion": 0,
+    "name": "TUPE-val-0",
+    "stash": "EhywSEhJJ63mGaJV4VSN7n1wLtyLcFN7x34bptXaCzG8a5R",
+    "kusamaStash": "",
+    "commission": 5,
+    "identity": {
+      "_id": "60c8e456286fb60012525093",
+      "name": "ONTUPE",
+      "verified": true,
+      "sub": "01"
+    },
+    "active": false,
+    "validity": [
+      {
+        "type": "ACCUMULATED_OFFLINE_TIME",
+        "_id": "60c8e270286fb600125155f1",
+        "valid": true,
+        "updated": 1623777904138,
+        "details": ""
+      },
+      {
+        "type": "VALIDATE_INTENTION",
+        "_id": "60c8e31d286fb60012516d7f",
+        "valid": true,
+        "updated": 1623778077072,
+        "details": ""
+      },
+      {
+        "type": "CONNECTION_TIME",
+        "_id": "60c8e43c286fb60012524b42",
+        "valid": true,
+        "updated": 1623778364495,
+        "details": ""
+      },
+      {
+        "type": "IDENTITY",
+        "_id": "60c8e43c286fb60012524b5c",
+        "valid": true,
+        "updated": 1623778364589,
+        "details": ""
+      },
+      {
+        "type": "COMMISION",
+        "_id": "60c8e43c286fb60012524b71",
+        "valid": true,
+        "updated": 1623778364614,
+        "details": ""
+      },
+      {
+        "type": "SELF_STAKE",
+        "_id": "60c8e43c286fb60012524b7d",
+        "valid": true,
+        "updated": 1623778364702,
+        "details": ""
+      },
+      {
+        "type": "UNCLAIMED_REWARDS",
+        "_id": "60c8e43c286fb60012524b88",
+        "valid": true,
+        "updated": 1623778364752,
+        "details": ""
+      },
+      {
+        "type": "ONLINE",
+        "_id": "60c8e97ddee1c500134443e2",
+        "valid": true,
+        "updated": 1623779709457,
+        "details": ""
+      }
+    ],
+    "score": {
+      "_id": "60c8adb6f5f8d50012fd1d12",
+      "address": "EhywSEhJJ63mGaJV4VSN7n1wLtyLcFN7x34bptXaCzG8a5R",
+      "updated": 1623778339753,
+      "total": 105.17476672824525,
+      "aggregate": 102,
+      "inclusion": 5,
+      "spanInclusion": 40,
+      "discovered": 0,
+      "nominated": 35,
+      "rank": 0,
+      "unclaimed": 15,
+      "bonded": 0,
+      "faults": 5,
+      "offline": 2,
+      "randomness": 1.0311251640024044,
+      "__v": 0
+    },
+    "total": 105.17476672824525
+  }
+  ]
